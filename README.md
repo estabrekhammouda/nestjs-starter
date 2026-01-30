@@ -28,12 +28,10 @@ npm run start:prod
 
 ## Run with Docker
 
-# Build and start
-docker compose up --build
-# Run in background
-docker compose up -d
-# Stop
-docker compose down
+#Build image
+docker run -p 3000:3000 app-nest
+#Run container
+docker run -p 3000:3000 app-nest
 
 ## Test
 
