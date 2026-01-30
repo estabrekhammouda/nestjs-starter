@@ -1,4 +1,4 @@
-# Day 1 - NestJS Starter
+# NestJS Starter
 
 Simple NestJS application with health check endpoint.
 
