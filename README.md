@@ -28,9 +28,10 @@ npm run start:prod
 
 ## Run with Docker
 
-#Build image
+# Build image
 docker run -p 3000:3000 app-nest
-#Run container
+
+# Run container
 docker run -p 3000:3000 app-nest
 
 ## Test
